@@ -19,7 +19,8 @@ O projeto foi desenvolvido como parte das atividades práticas de programação,
 
 ## ⚙️ Demonstração de Execução
 
-*(Dica: Se você rodar o jogo no VS Code, tire um print do terminal jogando e arraste a imagem para cá!)*
+<img width="1601" height="1004" alt="PRINTF" src="https://github.com/user-attachments/assets/1d107c8a-9096-4e3d-b87d-6508d2557499" />
+
 
 ---
 
