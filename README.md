@@ -20,6 +20,7 @@ O projeto foi desenvolvido como parte das atividades práticas de programação,
 ## ⚙️ Demonstração de Execução
 
 <img width="1601" height="1004" alt="PRINTF" src="https://github.com/user-attachments/assets/1d107c8a-9096-4e3d-b87d-6508d2557499" />
+<img width="1630" height="1026" alt="P2" src="https://github.com/user-attachments/assets/52a55973-3c87-491f-8be5-23103543d624" />
 
 
 ---
